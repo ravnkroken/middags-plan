@@ -6,7 +6,7 @@
   1. Fiskesuppe
   2. Vesterålens fiskeboller
   ## Framgangsmåte
-  1.Bland alt saman
+  1. Bland alt saman
 
      
 </details>

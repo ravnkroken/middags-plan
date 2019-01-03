@@ -21,10 +21,40 @@ Kjøttdeig, tørka bønner, røykt paprikapulver og paprika.
 
 
 # Uke 3
-## Vegan-nuggets med poteter og brokkoli (Mandag)
+## Mandag: Vegan-nuggets med poteter og brokkoli.
+## Tirsdag: Chilli con carne frå frysar.
+## Onsdag: Fiskekaker med poteter, erter og brokkoli.
+## Torsdag: Stekt Torsk med poteter og grønnkålmiks.
+Grønnkålmiksen skal steikast før torsken.
+## Søndag: Fiskeboller med kvit saus, poter og gulerøtter.
 
-## Chilli con carne frå frysar (Tirsdag)
 
 # Uke 4
-## Fiskesuppe med fiskeboller (Mandag)
+## Mandag: Fiskesuppe med fiskeboller (Mandag)
 Posefiskesuppe med Vesterålens fiskeboller.
+## Tirsdag: Chilli con carne.
+## Onsdag: Omelett med sukkererter, paprika, løk. 
+## Torsdag: Torsk med bønnekrem.
+Torsk med poter, sukkererter og bønnekrem.
+<details>
+  <summary>Oppskrift</summary> 
+  
+  <h3>Ingrendienser</h3>    
+  <ul>
+    <li>250 g kokte, hvit bønner, naturell</li>
+    <li>2 sjalottløk</li>
+    <li>2 fedd hvitløk</li>
+    <li>2 ss/ olivenolje</li>
+    <li>3 dl kyllingkraft</li>
+    <li>2 ss smør</li>
+  </ul>
+  <h3>Framgangsmåte</h3>
+  <ol>
+  <li>Sett på poteter.</li>
+  <li>Bland alt saman i ei gryte.</li>
+  <li>Kok i 20 minutt.</li>
+  <li>Mens kremen kokar så stek torsken som vanleg.</li>
+  </ol>    
+</details>
+
+## Søndag: Pulled pork (ferdiglaget) i pita med sukkererter og cherrytomater.
