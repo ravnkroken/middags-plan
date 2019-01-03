@@ -1,24 +1,22 @@
 # Uke 1
-## Wok med kylling, brokkoli, paprika, gulerot og edamame (Mandag).
+## Mandag: Wok med kylling, brokkoli, paprika, gulerot og edamame.
 Wok med kylling, brokkoli, gulerot, løk, kvitløk, soyasaus + sukker.
-## Blomkålsuppe med ekstra blomkål og brød (Tirsdag).
-
-## Pastasalat med smårettsskinke, blomkål, fetaost og sukkererter (Onsdag)
-
-## Fiskekaker med poteter blomkål og løk (Torsdag)
-
-## Pølser med potetstappe og stekt paprika (Søndag)
+## Tirsdag: Blomkålsuppe med ekstra blomkål og brød.
+Posesuppe og ekstra blomkål. Det er også mulig å tilsette vegan kjøtt eller kjøttboller.
+## Onsdag: Pastasalat med smårettsskinke, blomkål, fetaost og sukkererter.
+## Torsdag: Fiskekaker med poteter blomkål og løk.
+## Søndag: Pølser med potetstappe og stekt paprika.
 
 
 # Uke 2
-## Meksikansk tomatsuppe med kyllingfilet (Mandag).
+## Mandag: Meksikansk tomatsuppe med kyllingfilet.
 Meksikansk posesuppe med kyllingfilet og brokkoli.
-## Fiskegrateng med poteter og gulerøtter (Tirsdag).
+## Tirsdag: Fiskegrateng med poteter og gulerøtter.
 Ferdig fiskegrateng med poteter, gulerøtter og sukkererter.
-## Spaghetti bolognese med erter (Onsdag).
+## Onsdag: Spaghetti bolognese med erter.
 Ferdig bologonese med brokkoli og erter
-## Laks med erter, lett creme fresh og poteter (Torsdag)
-## Chilli con carne (Søndag)
+## Torsdag: Laks med erter, lett creme fresh og poteter.
+## Søndag: Chilli con carne.
 Kjøttdeig, tørka bønner, røykt paprikapulver og paprika.
 
 
