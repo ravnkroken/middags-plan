@@ -24,4 +24,3 @@ for i,date in enumerate(dates_with_dinners):
 
 
 
-
