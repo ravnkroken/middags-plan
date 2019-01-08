@@ -23,10 +23,10 @@ Ferdig bologonese med brokkoli og erter
 
 # Uke 3
 ## Søndag: Fiskeboller med kvit saus, poter og gulerøtter.
-## Mandag: Vegan-nuggets med poteter og brokkoli.
+## Mandag: Stekt Torsk med poteter og grønnkålmiks.
 ## Tirsdag: Chilli con carne frå frysar.
 ## Onsdag: Fiskekaker med poteter, erter og brokkoli.
-## Torsdag: Stekt Torsk med poteter og grønnkålmiks.
+## Torsdag: Vegan-nuggets med poteter og brokkoli.
 Grønnkålmiksen skal steikast før torsken.
 
 
