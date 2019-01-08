@@ -2,9 +2,16 @@ import datetime
 import time
 from dateutil.rrule import DAILY, rrule,  MO, TU, WE, TH, SU
 import calendar
+import re
 
 #Read the list of dinners
-dinners = ['Fisk','Kjøtt','Speilegg','Pasta','Egg']
+dinners = []
+with open('../middager.md','r') as fp:
+    for line in fp:    
+        if '##' in line:
+            m =  re.search(':(.+?)\.',line)
+            if m:                
+                dinners.append(m.group(1).strip())            
 dinners = dinners*54
 
 
