@@ -9,7 +9,8 @@ dinners = []
 with open('../middager.md','r') as fp:
     for line in fp:    
         if '##' in line:
-            m =  re.search(':(.+?)\.',line)
+            #Extract only the dinner names
+            m =  re.search(':(.+)\.',line)
             if m:                
                 dinners.append(m.group(1).strip())            
 dinners = dinners*54
