@@ -1,3 +1,4 @@
+#Written by Trond
 import datetime
 import time
 from dateutil.rrule import DAILY, rrule,  MO, TU, WE, TH, SU
