@@ -54,7 +54,9 @@ Ferdig bologonese med brokkoli og erter.
 
 ### Søndag: Pulled pork (ferdiglaget) i pita med sukkererter og cherrytomater
 
-### Mandag: Fiskesuppe med fiskeboller
+### Mandag: Fiskesuppe med purre, sukkererter, gulrot og fiskeboller
+
+Server med grovt brød
 
 Posefiskesuppe med Vesterålens fiskeboller.
 
