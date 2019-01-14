@@ -1,60 +1,69 @@
-# Uke 1
+# Middagsplan
 
-## Søndag: Pølser med potetstappe og stekt paprika.
+## Uke 1
 
-## Mandag: Wok med kylling, brokkoli, paprika, gulerot og edamame.
-Wok med kylling, brokkoli, gulerot, løk, kvitløk, soyasaus + sukker.
+### Søndag: Chilli con carne
 
-## Tirsdag: Blomkålsuppe med ekstra blomkål og brød.
-Posesuppe og ekstra blomkål. Det er også mulig å tilsette vegan kjøtt eller kjøttboller.
-
-## Onsdag: Pastasalat med smårettsskinke, blomkål, fetaost og sukkererter.
-
-## Torsdag: Fiskekaker med poteter blomkål og løk.
-
-
-# Uke 2
-
-## Søndag: Chilli con carne.
 Kjøttdeig, tørka bønner, røykt paprikapulver og paprika.
 
-## Mandag: Meksikansk tomatsuppe med kyllingfilet.
+### Mandag: Meksikansk tomatsuppe med kyllingfilet
+
 Meksikansk posesuppe med kyllingfilet og brokkoli.
 
-## Tirsdag: Fiskegrateng med poteter og gulerøtter.
+### Tirsdag: Blomkålsuppe med ekstra blomkål og brød
+
+Posesuppe og ekstra blomkål. Det er også mulig å tilsette vegan kjøtt eller kjøttboller.
+
+### Onsdag: Pastasalat med smårettsskinke, blomkål, fetaost og sukkererter
+
+### Torsdag: Fiskekaker med poteter blomkål og løk
+
+
+## Uke 2
+
+### Søndag: Fiskeboller med kvit saus, poter og gulerøtter
+
+### Mandag: Wok med kylling, brokkoli, paprika, gulerot og edamame
+
+Wok med kylling, brokkoli, gulerot, løk, kvitløk, soyasaus + sukker.
+
+### Tirsdag: Fiskegrateng med poteter og gulerøtter
+
 Ferdig fiskegrateng med poteter, gulerøtter og sukkererter.
 
-## Onsdag: Spaghetti bolognese med erter.
-Ferdig bologonese med brokkoli og erter
+### Onsdag: Spaghetti bolognese med erter
 
-## Torsdag: Laks med erter, lett creme fresh og poteter.
+Ferdig bologonese med brokkoli og erter.
+
+### Torsdag: Laks med erter, lett creme fresh og poteter
+
+## Uke 3
+
+### Søndag: Pølser med potetstappe og stekt paprika
+
+### Mandag: Stekt Torsk med poteter og grønnkålmiks.Grønnkålmiksen skal steikast før torsken
+
+### Tirsdag: Chilli con carne frå frysar
+
+### Onsdag: Fiskekaker med poteter, erter og brokkoli
+
+### Torsdag: Vegan-nuggets med poteter, sukkererter og brokkoli
 
 
+## Uke 4
 
-# Uke 3
+### Søndag: Pulled pork (ferdiglaget) i pita med sukkererter og cherrytomater
 
-## Søndag: Fiskeboller med kvit saus, poter og gulerøtter.
+### Mandag: Fiskesuppe med fiskeboller
 
-## Mandag: Stekt Torsk med poteter og grønnkålmiks.
-Grønnkålmiksen skal steikast før torsken.
-## Tirsdag: Chilli con carne frå frysar.
-## Onsdag: Fiskekaker med poteter, erter og brokkoli.
-## Torsdag: Vegan-nuggets med poteter, sukkererter og brokkoli.
-
-
-
-
-# Uke 4
-## Søndag: Pulled pork (ferdiglaget) i pita med sukkererter og cherrytomater.
-
-## Mandag: Fiskesuppe med fiskeboller (Mandag)
 Posefiskesuppe med Vesterålens fiskeboller.
 
-## Tirsdag: Chilli con carne.
+### Tirsdag: Chilli con carne
 
-## Onsdag: Omelett med sukkererter, paprika, løk. 
+### Onsdag: Omelett med sukkererter, paprika, løk. 
 
-## Torsdag: Torsk med bønnekrem.
+### Torsdag: Torsk med bønnekrem
+
 Torsk med poter, sukkererter og bønnekrem.
 <details>
   <summary>Oppskrift</summary> 
