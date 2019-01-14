@@ -60,7 +60,7 @@ Posefiskesuppe med Vesterålens fiskeboller.
 
 ### Tirsdag: Chilli con carne
 
-### Onsdag: Omelett med sukkererter, paprika, løk. 
+### Onsdag: Omelett med sukkererter, paprika, løk 
 
 ### Torsdag: Torsk med bønnekrem
 
