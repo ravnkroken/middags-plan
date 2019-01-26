@@ -9,7 +9,6 @@ from httplib2 import Http
 from oauth2client import file, client, tools
 
 
-
 """Shows basic usage of the Google Calendar API.
 Prints the start and name of the next 10 events on the user's calendar.
 """
@@ -39,11 +38,34 @@ events_result = service.events().list(calendarId='primary', timeMin=now,
                                     maxResults=10, singleEvents=True,
                                     orderBy='startTime').execute()
 events = events_result.get('items', [])
-
 if not events:
     print('No upcoming events found.')
 for event in events:
     start = event['start'].get('dateTime', event['start'].get('date'))
     print(start, event['summary'])
 
+# Create an event
+event = {  
+  'summary': 'Torsk',
+  'location': 'Holmlia',
+  'description': 'Middag',
+  'start': {
+    'date': '2019-01-27'    
+  },
+  'end': {
+    'date': '2019-01-27'    
+  },  
+  'reminders': {
+    'useDefault': False,
+    'overrides': [      
+      {'method': 'popup', 'minutes': 60*24*1},
+    ],
+  },
+}
+middags_plan_id = calendar_list['items'][1]['id']
+event = service.events().insert(calendarId=middags_plan_id, body=event).execute()
+print( 'Event created: %s' % (event.get('htmlLink')))
 
+
+
+service.events().delete(calendarId='primary', eventId=event['id']).execute()

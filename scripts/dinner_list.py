@@ -31,8 +31,7 @@ for i,date in enumerate(dates_with_dinners):
         uke += 1
         if uke > 4:
             uke = 1
-
-    
+ 
     
 #Connect to google calendar API and fill in dinner for each day
 
