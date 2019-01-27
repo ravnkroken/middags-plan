@@ -34,7 +34,17 @@ for i,date in enumerate(dates_with_dinners):
  
     
 #Connect to google calendar API and fill in dinner for each day
+# The file token.json stores the user's access and refresh tokens, and is
+# created automatically when the authorization flow completes for the first
+# time.
+store = file.Storage('token.json')
+creds = store.get()    
+service = build('calendar', 'v3', http=creds.authorize(Http()))
 
+#Delete all existing middager in calendre
+
+
+#Make a template event
 
 
 

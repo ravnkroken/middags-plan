@@ -7,6 +7,7 @@ import datetime
 from googleapiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
+import re
 
 
 """Shows basic usage of the Google Calendar API.
@@ -21,14 +22,21 @@ creds = store.get()
     
 service = build('calendar', 'v3', http=creds.authorize(Http()))
 
+middags_plan_id ='lnkhjhbril50ul2uclct4e0cms@group.calendar.google.com'
 page_token = None
 while True:
   calendar_list = service.calendarList().list(pageToken=page_token).execute()
   for calendar_list_entry in calendar_list['items']:
+    if re.match('.*Middag.*',calendar_list_entry['summary']) is not None:
+      test = calendar_list_entry['id'] 
     print(calendar_list_entry['summary'])
   page_token = calendar_list.get('nextPageToken')
   if not page_token:
     break
+print(test)
+print(middags_plan_id)
+
+
 
 
 # Call the Calendar API
@@ -62,10 +70,17 @@ event = {
     ],
   },
 }
-middags_plan_id = calendar_list['items'][1]['id']
 event = service.events().insert(calendarId=middags_plan_id, body=event).execute()
 print( 'Event created: %s' % (event.get('htmlLink')))
 
 
+#Delete all entries in my regualar calendar
+before = datetime.datetime(2018,1,1).isoformat()+'Z'
+events_result = service.events().list(calendarId=middags_plan_id, timeMin=before,
+                                    maxResults=500, singleEvents=True,
+                                    orderBy='startTime').execute()
+for i in range(0,len(events_result['items'])):
+  event = events_result['items'][i]
+  service.events().delete(calendarId=middags_plan_id, eventId=event['id']).execute()                 
 
-service.events().delete(calendarId='primary', eventId=event['id']).execute()
+#service.events().delete(calendarId='primary', eventId=event['id']).execute()
