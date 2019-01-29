@@ -10,13 +10,21 @@ from oauth2client import file, client, tools
 
 #Read the list of dinnerss
 dinners = []
+links =[]
 with open('../middager.md','r') as fp:
     for line in fp:    
         if '###' in line:
             #Extract only the dinner names
             m =  re.search(':(.+)$',line)
             if m:                
-                dinners.append(m.group(1).strip())            
+                dinners.append([m.group(1).strip(),''])                
+        if '[' in line:
+            #Extract link and add it to the las dinner
+            m =  re.search('\((.*)\)$',line)
+            if m:                
+                dinners[-1][1] = m.group(1).strip()
+        
+
 dinners = dinners*54
 
 
@@ -29,11 +37,14 @@ dates_with_dinners = rrule(DAILY,dtstart = first_dinner_day,
 dinner_events = []
 uke = 1
 for i,date in enumerate(dates_with_dinners):
-    dinner_events.append(['uke'+str(uke),date,calendar.day_name[date.weekday()],dinners[i]])
+    dinner_events.append(['uke'+str(uke),date,
+                          calendar.day_name[date.weekday()],
+                          dinners[i][0],dinners[i][1]])
     if (i+1)%5 == 0:
         uke += 1
         if uke > 4:
             uke = 1
+
  
     
 #Connect to google calendar API and fill in dinner for each day
@@ -52,11 +63,12 @@ events_result = service.events().list(calendarId=middags_plan_id, timeMin=before
                                     orderBy='startTime').execute()
 
 #Delete all existing middager in calender Middagsplan
-print('Delete all dinners')
-for i in range(0,len(events_result['items'])):
-  event = events_result['items'][i]
-  service.events().delete(calendarId=middags_plan_id, eventId=event['id']).execute() 
 
+for i in range(0,len(events_result['items'])):
+    event = events_result['items'][i]
+    service.events().delete(calendarId=middags_plan_id, eventId=event['id']).execute() 
+    print('Delete dinner '+str(i+1) + ' of '+str(len(events_result['items'])),end='\r')
+print('Deleted '+str(len(events_result['items']))+' dinners                                         ')
 #Add all dinner_events in dinner_dates
 
 #Dinner event template 
@@ -79,14 +91,14 @@ single_event = {
 }
 
 #Add all dinner_events to the calendra
-print('Add dinners')
-for i,dinner_event in enumerate(dinner_events[:5]):     
+for i,dinner_event in enumerate(dinner_events):     
     single_event['summary'] = dinner_event[3]
-    single_event['description']='Dinner for ' + dinner_event[0]
+    single_event['description']='Dinner for ' + dinner_event[0]+'\n'+dinner_event[4]
     single_event['start']['date'] = dinner_event[1].date().isoformat() 
     single_event['end']['date'] = dinner_event[1].date().isoformat() 
-    #event = service.events().insert(calendarId=middags_plan_id, body=single_event).execute()
-    #print( 'Event created: %s' % (event.get('htmlLink')))
+    event = service.events().insert(calendarId=middags_plan_id, body=single_event).execute()
+    print('Add dinner '+str(i+1) + ' of '+str(len(dinner_events)),end='\r')
+print('Added '+str(len(dinner_events))+' dinners                              ',end='\r')
 
 
 

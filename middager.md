@@ -4,20 +4,13 @@
 
 ### Søndag: Chilli con carne
 
-Kjøttdeig, tørka bønner, røykt paprikapulver og paprika.
+### Mandag: Pastasalat med smårettsskinke, hvite bønner, brokkoli, fetaost og sukkererter
 
-### Mandag: Meksikansk tomatsuppe med kyllingfilet
+### Tirsdag: Blomkålsuppe med ekstra blomkål, spekeskinke og brød
 
-Meksikansk posesuppe med kyllingfilet og brokkoli.
+### Onsdag: Meksikansk tomatsuppe med kyllingfilet og paprika
 
-### Tirsdag: Blomkålsuppe med ekstra blomkål og brød
-
-Posesuppe og ekstra blomkål. Det er også mulig å tilsette vegan kjøtt eller kjøttboller.
-
-### Onsdag: Pastasalat med smårettsskinke, blomkål, fetaost og sukkererter
-
-### Torsdag: Fiskekaker med poteter blomkål og løk
-
+### Torsdag: Fiskekaker med poteter, lettrømme, stekt løk og brokkoli
 
 ## Uke 2
 
@@ -25,66 +18,38 @@ Posesuppe og ekstra blomkål. Det er også mulig å tilsette vegan kjøtt eller 
 
 ### Mandag: Wok med kylling, brokkoli, paprika, gulerot og edamame
 
-Wok med kylling, brokkoli, gulerot, løk, kvitløk, soyasaus + sukker.
-
 ### Tirsdag: Fiskegrateng med poteter og gulerøtter
-
-Ferdig fiskegrateng med poteter, gulerøtter og sukkererter.
 
 ### Onsdag: Spaghetti bolognese med erter
 
-Ferdig bologonese med brokkoli og erter.
-
-### Torsdag: Laks med erter, lett creme fresh og poteter
+### Torsdag: Laks med erter, lett rømme, sitron og poteter
 
 ## Uke 3
 
-### Søndag: Pølser med potetstappe og stekt paprika
+### Søndag:Restemat  
 
-### Mandag: Stekt Torsk med poteter og grønnkålmiks.Grønnkålmiksen skal steikast før torsken
+### Mandag: Torskefilet med fullkornspasta, pesto og grønnkål mix. Grønnkålmiksen skal steikast når torsken kviler.
 
-### Tirsdag: Chilli con carne frå frysar
+### Tirsdag: Kylling i kokosmelk med mangochutney,paprika og tomat. Serveres med ris og hjertesalat
 
-### Onsdag: Fiskekaker med poteter, erter og brokkoli
+### Onsdag: Stekt laks med ruccolacouscous med tzatziki og brokkoli
+[Stekt laks med ruccolacouscous.](https://www.greteroede.no/oppskrifter/stekt-laks-med-ruccolacouscous)
 
-### Torsdag: Vegan-nuggets med poteter, sukkererter og brokkoli
+### Torsdag: Vegan-nuggets med poteter, sukkererter og brokkoli  
 
 
 ## Uke 4
 
-### Søndag: Pulled pork (ferdiglaget) i pita med sukkererter og cherrytomater
+### Søndag: Pulled pork (ferdiglaget) i pita med coleslaw av gulrot,kesam,lettmajones og kål
 
-### Mandag: Fiskesuppe med purre, sukkererter, gulrot og fiskeboller
+[Pulled pork i pita.](https://www.greteroede.no/oppskrifter/pulled-pork-i-pita)
 
-Server med grovt brød
+### Mandag: Laks med nudler, lett creme fraiche, agurk, tomat, sesamfrø, sitron og  soyasaus med litt sukker
 
-Posefiskesuppe med Vesterålens fiskeboller.
+### Tirsdag: Chilli con carne frå frysaren
 
-### Tirsdag: Chilli con carne
+### Onsdag: Omelett med sukkererter, paprika og løk
 
-### Onsdag: Omelett med sukkererter, paprika, løk 
+### Torsdag: Torsk med bønnekrem og poteter
 
-### Torsdag: Torsk med bønnekrem
-
-Torsk med poter, sukkererter og bønnekrem.
-<details>
-  <summary>Oppskrift</summary> 
-  
-  <h3>Ingrendienser</h3>    
-  <ul>
-    <li>250 g kokte, hvit bønner, naturell</li>
-    <li>2 sjalottløk</li>
-    <li>2 fedd hvitløk</li>
-    <li>2 ss/ olivenolje</li>
-    <li>3 dl kyllingkraft</li>
-    <li>2 ss smør</li>
-  </ul>
-  <h3>Framgangsmåte</h3>
-  <ol>
-  <li>Sett på poteter.</li>
-  <li>Bland alt saman i ei gryte.</li>
-  <li>Kok i 20 minutt.</li>
-  <li>Mens kremen kokar så stek torsken som vanleg.</li>
-  </ol>    
-</details>
-
+[Torsk med bønnekrem.](https://www.nrk.no/mat/ovnsbakt-torsk-med-bonnekrem_-brokkoli-og-baconsjy-1.13417525)
