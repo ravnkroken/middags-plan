@@ -45,15 +45,17 @@ creds = store.get()
 service = build('calendar', 'v3', http=creds.authorize(Http()))
 
 #Get all events in calender Middagsplan
-middags_plan_id ='lnkhjhbril50ul2uclct4e0cms@group.calendar.google.com'
+middags_plan_id ='dj0nplik36u3mj78a8vjno7u2s@group.calendar.google.com'
 before = datetime.datetime(2018,1,1).isoformat()+'Z'
 events_result = service.events().list(calendarId=middags_plan_id, timeMin=before,
-                                    maxResults=500, singleEvents=True,
+                                    maxResults=1000, singleEvents=True,
                                     orderBy='startTime').execute()
+
 #Delete all existing middager in calender Middagsplan
+print('Delete all dinners')
 for i in range(0,len(events_result['items'])):
   event = events_result['items'][i]
-  #service.events().delete(calendarId=middags_plan_id, eventId=event['id']).execute() 
+  service.events().delete(calendarId=middags_plan_id, eventId=event['id']).execute() 
 
 #Add all dinner_events in dinner_dates
 
@@ -77,11 +79,13 @@ single_event = {
 }
 
 #Add all dinner_events to the calendra
-for i,dinner_event in enumerate(dinner_events):     
+print('Add dinners')
+for i,dinner_event in enumerate(dinner_events[:5]):     
     single_event['summary'] = dinner_event[3]
-    single_event['start']['date'] = dinner_event[1].isoformat() + 'Z'
-    single_event['end']['date'] = dinner_event[1].isoformat() + 'Z'
-    #event = service.events().insert(calendarId=middags_plan_id, body=event).execute()
+    single_event['description']='Dinner for ' + dinner_event[0]
+    single_event['start']['date'] = dinner_event[1].date().isoformat() 
+    single_event['end']['date'] = dinner_event[1].date().isoformat() 
+    #event = service.events().insert(calendarId=middags_plan_id, body=single_event).execute()
     #print( 'Event created: %s' % (event.get('htmlLink')))
 
 
