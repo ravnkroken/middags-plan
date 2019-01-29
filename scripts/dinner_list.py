@@ -5,7 +5,7 @@ from dateutil.rrule import DAILY, rrule,  MO, TU, WE, TH, SU
 import calendar
 import re
 
-#Read the list of dinners
+#Read the list of dinnerss
 dinners = []
 with open('../middager.md','r') as fp:
     for line in fp:    
@@ -23,30 +23,15 @@ last_dinner_day = first_dinner_day+datetime.timedelta(365-2)
 daynames = calendar.day_name
 dates_with_dinners = rrule(DAILY,dtstart = first_dinner_day,
                            until=last_dinner_day,byweekday= (MO,TU,WE,TH,SU))
-dinner_dates = []
+dinner_events = []
 uke = 1
 for i,date in enumerate(dates_with_dinners):
-    dinner_dates.append(['uke'+str(uke),date,calendar.day_name[date.weekday()],dinners[i]])
+    dinner_events.append(['uke'+str(uke),date,calendar.day_name[date.weekday()],dinners[i]])
     if (i+1)%5 == 0:
         uke += 1
         if uke > 4:
             uke = 1
  
     
-#Connect to google calendar API and fill in dinner for each day
-# The file token.json stores the user's access and refresh tokens, and is
-# created automatically when the authorization flow completes for the first
-# time.
-store = file.Storage('token.json')
-creds = store.get()    
-service = build('calendar', 'v3', http=creds.authorize(Http()))
-
-#Delete all existing middager in calendre
-
-
-#Make a template event
-
-
-
 
 
