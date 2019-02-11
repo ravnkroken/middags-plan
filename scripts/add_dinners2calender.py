@@ -98,7 +98,7 @@ for i,dinner_event in enumerate(dinner_events):
     single_event['end']['date'] = dinner_event[1].date().isoformat() 
     event = service.events().insert(calendarId=middags_plan_id, body=single_event).execute()
     print('Add dinner '+str(i+1) + ' of '+str(len(dinner_events)),end='\r')
-print('Added '+str(len(dinner_events))+' dinners                              ',end='\r')
+print('Added '+str(len(dinner_events))+' dinners                              ')
 
 
 

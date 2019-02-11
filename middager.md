@@ -28,7 +28,7 @@
 
 ### Søndag:Restemat  
 
-### Mandag: Torskefilet med fullkornspasta, pesto og grønnkål mix. Grønnkålmiksen skal steikast når torsken kviler.
+### Mandag: Torskefilet med fullkornspasta, soyasaus og grønnkål mix. Grønnkålmiksen skal steikast når torsken kviler
 
 ### Tirsdag: Kylling i kokosmelk med mangochutney,paprika og tomat. Serveres med ris og hjertesalat
 
@@ -48,7 +48,7 @@
 
 ### Tirsdag: Chilli con carne frå frysaren
 
-### Onsdag: Omelett med sukkererter, paprika og løk
+### Onsdag: Omelett med sukkererter, bogskinke paprika og løk
 
 ### Torsdag: Torsk med bønnekrem og poteter
 
