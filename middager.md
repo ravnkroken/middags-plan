@@ -44,12 +44,11 @@
 
 [Pulled pork i pita.](https://www.greteroede.no/oppskrifter/pulled-pork-i-pita)
 
-### Mandag: Laks med nudler, lett creme fraiche, agurk, tomat, sesamfrø, sitron og  soyasaus med litt sukker
+### Mandag: Torskeburger med råkost,løk, lettrømme og potet
 
-### Tirsdag: Chilli con carne frå frysaren
+### Tirsdag: Betasuppe med poteter, erter og byggryn
+[Betasuppe med poteter, erter og byggryn](https://kolonial.no/oppskrifter/2585-marit-marvik-betasuppe-med-poteter-erter-og-byggryn/?fbclid=IwAR0wnOvTneeadbws420Jb9pXq1IsllgL_yydl24Pkgqdekap8MO1GhMI8sg)
 
 ### Onsdag: Omelett med sukkererter, bogskinke paprika og løk
 
-### Torsdag: Torsk med bønnekrem og poteter
-
-[Torsk med bønnekrem.](https://www.nrk.no/mat/ovnsbakt-torsk-med-bonnekrem_-brokkoli-og-baconsjy-1.13417525)
+### Torsdag: Laks med nudler, lett creme fraiche, agurk, tomat, sesamfrø, sitron og  soyasaus med litt sukker
