@@ -6,11 +6,11 @@
 
 ### Mandag: Pastasalat med smårettsskinke, hvite bønner, brokkoli, fetaost og sukkererter
 
-### Tirsdag: Blomkålsuppe med ekstra blomkål, spekeskinke og brød
-
-### Onsdag: Meksikansk tomatsuppe med kyllingfilet og paprika
+### Tirsdag: Blomkålsuppe med ekstra blomkål og brød
 
 ### Torsdag: Fiskekaker med poteter, lettrømme, stekt løk og brokkoli
+
+### Onsdag: Meksikansk tomatsuppe med kyllingfilet og paprika
 
 ## Uke 2
 
@@ -18,11 +18,11 @@
 
 ### Mandag: Wok med kylling, brokkoli, paprika, gulerot og edamame
 
-### Tirsdag: Fiskegrateng med poteter og gulerøtter
+### Tirsdag: Ferdig fiskesuppe + torsk i biter
 
-### Onsdag: Spaghetti bolognese med erter
+### Onsdag: Spaghetti med pesto
 
-### Torsdag: Laks med erter, lett rømme, sitron og poteter
+### Torsdag: Laks med erter, lett rømme, sitron og amadinepoteter
 
 ## Uke 3
 
