@@ -26,16 +26,18 @@
 
 ## Uke 3
 
-### Søndag:Restemat  
+### Søndag:Kylling med bretagnesaus og ris
+[Kylling med bretagnesaus og ris](https://kolonial.no/oppskrifter/2683-spoon-kylling-med-bretagnesaus-og-ris/)
 
 ### Mandag: Torskefilet med fullkornspasta, soyasaus og grønnkål mix. Grønnkålmiksen skal steikast når torsken kviler
 
-### Tirsdag: Kylling i kokosmelk med mangochutney,paprika og tomat. Serveres med ris og hjertesalat
+### Tirsdag: Vegan-nuggets med poteter, sukkererter og brokkoli
 
-### Onsdag: Stekt laks med ruccolacouscous med tzatziki og brokkoli
+### Onsdag: Stekt laks med ruccolacouscous med tzatziki og frossen brokkoli
 [Stekt laks med ruccolacouscous.](https://www.greteroede.no/oppskrifter/stekt-laks-med-ruccolacouscous)
 
-### Torsdag: Vegan-nuggets med poteter, sukkererter og brokkoli  
+### Torsdag: Revet rotgrønnsaksuppe
+[Revet rotgrønnsaksuppe](https://www.tine.no/oppskrifter/middag-og-hovedretter/supper/kremet-rotgr%C3%B8nnsaksuppe) 
 
 
 ## Uke 4
